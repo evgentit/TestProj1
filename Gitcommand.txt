@@ -1,0 +1,5 @@
+git checkout -b XXXXXX создание новой ветки
+git checkout main перход на главную ветку (ствол)
+git pull - загрузить данные из гитхаба
+git push - загрузить данные в гитхаб
+git reset --soft HEAD^1 откатить коммит
